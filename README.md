@@ -3,6 +3,7 @@
 Photoshop Google Maps Tile Cutter
 Built by Bramus! - [http://www.bram.us/](http://www.bram.us/)
 
+With Leaflet [https://www.techtrail.net/creating-an-interactive-map-with-leaflet-js/](https://www.techtrail.net/creating-an-interactive-map-with-leaflet-js/)
 
 ## About
 
